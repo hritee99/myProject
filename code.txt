@@ -1,4 +1,5 @@
-welcome to Hritee codes
+Welcome to Hritee codes
 
 java
-python
+Python
+C Language
